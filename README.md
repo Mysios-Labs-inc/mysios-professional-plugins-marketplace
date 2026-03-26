@@ -6,8 +6,8 @@ Professional AI-powered productivity tools and job search automation for Claude 
 
 ## 📦 Available Plugins
 
-### 🚀 Jobseeking Plugin v1.1.1
-**AI-powered job application assistant with profile-driven automation**
+### 🚀 Jobseeking Plugin v1.2.0
+**AI-powered job application assistant with intelligent profile analysis and market insights**
 
 **Features:**
 - 🔍 **Smart Document Upload** - Intelligent file detection with 85%+ accuracy

@@ -14,10 +14,10 @@
       "source": {
         "source": "github",
         "repo": "Mysios-Labs-inc/claude-jobseeking-plugin",
-        "ref": "v1.1.1"
+        "ref": "v1.2.0"
       },
       "description": "🚀 AI-powered job application assistant plugin for Claude Code - Profile-driven automation with instant resume generation",
-      "version": "v1.1.1",
+      "version": "v1.2.0",
       "author": {
         "name": "Mysios Labs Inc",
         "email": "hello@mysioslabs.com"
