@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "jobseeking-premium": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/servers/premium-server.js"],
+      "env": {
+        "API_ENDPOINT": "https://api.jobseeking.ai",
+        "API_KEY": "${user_config.api_key}",
+        "PLUGIN_VERSION": "1.2.0"
+      }
+    }
+  }
+}
