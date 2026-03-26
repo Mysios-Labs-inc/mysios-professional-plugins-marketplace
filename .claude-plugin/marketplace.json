@@ -1,22 +1,25 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "mysios-labs",
+  "description": "Professional AI-powered productivity tools and job search automation",
   "owner": {
     "name": "Mysios Labs Inc",
     "email": "hello@mysioslabs.com"
   },
-  "metadata": {
-    "description": "Professional AI-powered productivity tools and job search automation",
-    "version": "1.0.0"
-  },
   "plugins": [
     {
       "name": "jobseeking-plugin",
-      "source": {
-        "source": "github",
-        "repo": "Mysios-Labs-inc/claude-jobseeking-plugin"
-      },
       "description": "🧠 AI-powered job application assistant with intelligent profile analysis and market intelligence",
-      "category": "productivity"
+      "author": {
+        "name": "Mysios Labs Inc",
+        "email": "hello@mysioslabs.com"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Mysios-Labs-inc/claude-jobseeking-plugin.git"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/Mysios-Labs-inc/claude-jobseeking-plugin"
     }
   ]
 }
