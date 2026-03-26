@@ -1,7 +1,8 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "mysios-labs",
-  "description": "Professional AI-powered productivity tools and job search automation for career acceleration",
+  "metadata": {
+    "description": "Professional AI-powered productivity tools and job search automation for career acceleration"
+  },
   "owner": {
     "name": "Mysios Labs Inc",
     "email": "hello@mysioslabs.com"
