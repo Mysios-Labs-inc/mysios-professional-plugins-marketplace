@@ -1,7 +1,8 @@
 {
   "name": "mysios-labs",
   "metadata": {
-    "description": "Professional AI-powered productivity tools and job search automation for career acceleration"
+    "description": "Professional AI-powered productivity tools and job search automation for career acceleration",
+    "version": "1.0.0"
   },
   "owner": {
     "name": "Mysios Labs Inc",
@@ -11,15 +12,19 @@
     {
       "name": "jobseeking-plugin",
       "description": "🧠 AI-powered job application assistant with intelligent profile analysis and market intelligence",
+      "version": "1.2.0",
       "author": {
         "name": "Mysios Labs Inc",
         "email": "hello@mysioslabs.com"
       },
       "source": {
-        "source": "url",
-        "url": "https://github.com/Mysios-Labs-inc/claude-jobseeking-plugin.git"
+        "source": "github",
+        "repo": "Mysios-Labs-inc/claude-jobseeking-plugin",
+        "ref": "main"
       },
       "category": "productivity",
+      "license": "MIT",
+      "keywords": ["job-search", "resume", "career", "automation", "ai", "productivity"],
       "homepage": "https://github.com/Mysios-Labs-inc/claude-jobseeking-plugin"
     }
   ]
