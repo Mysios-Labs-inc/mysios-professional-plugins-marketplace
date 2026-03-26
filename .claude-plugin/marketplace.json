@@ -1,0 +1,40 @@
+{
+  "name": "mysios-labs",
+  "owner": {
+    "name": "Mysios Labs Inc",
+    "email": "hello@mysioslabs.com"
+  },
+  "metadata": {
+    "description": "Professional AI-powered productivity tools and job search automation",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "jobseeking-plugin",
+      "source": {
+        "source": "github",
+        "repo": "Mysios-Labs-inc/claude-jobseeking-plugin",
+        "ref": "v1.0.0"
+      },
+      "description": "🚀 AI-powered job application assistant plugin for Claude Code - Profile-driven automation with instant resume generation",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mysios Labs Inc",
+        "email": "hello@mysioslabs.com"
+      },
+      "homepage": "https://github.com/Mysios-Labs-inc/claude-jobseeking-plugin",
+      "repository": "https://github.com/Mysios-Labs-inc/claude-jobseeking-plugin",
+      "license": "MIT",
+      "keywords": [
+        "job-search",
+        "resume",
+        "ai",
+        "automation",
+        "career",
+        "profile",
+        "productivity"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
