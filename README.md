@@ -6,15 +6,18 @@ Professional AI-powered productivity tools and job search automation for Claude 
 
 ## 📦 Available Plugins
 
-### 🚀 Jobseeking Plugin v1.0.0
+### 🚀 Jobseeking Plugin v1.1.1
 **AI-powered job application assistant with profile-driven automation**
 
 **Features:**
-- ✨ Smart document upload (PDF resumes, LinkedIn profiles)
-- 📄 Instant resume generation with job-specific optimization
-- 📁 Professional workspace creation (65+ organized directories)
-- 🔐 Encrypted profile storage with completeness scoring
-- 🎯 Profile-driven automation eliminates data re-entry
+- 🔍 **Smart Document Upload** - Intelligent file detection with 85%+ accuracy
+- 📊 **Enhanced PDF Parsing** - Confidence scoring and quality assessment
+- 📤 **Multi-Format Support** - PDF, Word, JSON, CSV, and text formats
+- ✨ **Quality Validation** - Real-time extraction confidence and data validation
+- 📄 **Instant Resume Generation** - Job-specific optimization and ATS compatibility
+- 📁 **Professional Workspace** - 65+ organized directories with iCloud sync
+- 🔐 **Encrypted Profile Storage** - Secure local data with completeness scoring
+- 🎯 **Profile-Driven Automation** - Eliminates repetitive data re-entry
 
 **Installation:**
 ```bash
