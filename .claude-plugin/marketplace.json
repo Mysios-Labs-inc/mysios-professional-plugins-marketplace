@@ -10,8 +10,8 @@
   },
   "plugins": [
     {
-      "name": "jobseeking-plugin",
-      "description": "🧠 AI-powered job application assistant with intelligent profile analysis and market intelligence",
+      "name": "claude-jobseeking-plugin",
+      "description": "🧠 AI-powered job application assistant with intelligent profile analysis, skills gap assessment, and market intelligence. Enhanced document upload + real-time career insights for competitive job searching.",
       "version": "1.2.0",
       "author": {
         "name": "Mysios Labs Inc",
@@ -20,11 +20,11 @@
       "source": {
         "source": "github",
         "repo": "Mysios-Labs-inc/claude-jobseeking-plugin",
-        "ref": "v1.2.0"
+        "ref": "main"
       },
-      "category": "productivity",
       "license": "MIT",
-      "keywords": ["job-search", "resume", "career", "automation", "ai", "productivity"],
+      "category": "productivity",
+      "keywords": ["job-search", "resume", "career", "interview", "ai-assistant"],
       "homepage": "https://github.com/Mysios-Labs-inc/claude-jobseeking-plugin"
     }
   ]

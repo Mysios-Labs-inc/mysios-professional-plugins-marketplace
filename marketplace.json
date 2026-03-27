@@ -24,7 +24,8 @@
       },
       "license": "MIT",
       "category": "productivity",
-      "keywords": ["job-search", "resume", "career", "interview", "ai-assistant"]
+      "keywords": ["job-search", "resume", "career", "interview", "ai-assistant"],
+      "homepage": "https://github.com/Mysios-Labs-inc/claude-jobseeking-plugin"
     }
   ]
 }
