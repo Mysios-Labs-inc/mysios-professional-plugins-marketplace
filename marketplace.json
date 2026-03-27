@@ -20,7 +20,7 @@
       "source": {
         "source": "github",
         "repo": "Mysios-Labs-inc/claude-jobseeking-plugin",
-        "ref": "main"
+        "ref": "v1.2.0"
       },
       "license": "MIT",
       "category": "productivity",
