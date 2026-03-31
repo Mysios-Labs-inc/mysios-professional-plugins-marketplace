@@ -1,8 +1,8 @@
 {
   "name": "mysios-labs",
   "metadata": {
-    "description": "Professional AI-powered productivity tools and job search automation for career acceleration",
-    "version": "1.0.0"
+    "description": "Professional Intelligence Suite - Career advancement and strategic research intelligence for professional success",
+    "version": "2.0.0"
   },
   "owner": {
     "name": "Mysios Labs Inc",
@@ -10,8 +10,8 @@
   },
   "plugins": [
     {
-      "name": "claude-jobseeking-plugin",
-      "description": "🧠 AI-powered job application assistant with intelligent profile analysis, skills gap assessment, and market intelligence. Enhanced document upload + real-time career insights for competitive job searching.",
+      "name": "career-intelligence-plugin",
+      "description": "🧠 AI-powered career intelligence with profile analysis, market insights, and strategic positioning. Part of the Professional Intelligence Suite.",
       "version": "1.2.0",
       "author": {
         "name": "Mysios Labs Inc",
@@ -19,13 +19,31 @@
       },
       "source": {
         "source": "github",
-        "repo": "Mysios-Labs-inc/claude-jobseeking-plugin",
+        "repo": "Mysios-Labs-inc/career-intelligence-plugin",
         "ref": "v1.2.0"
       },
       "license": "MIT",
       "category": "productivity",
-      "keywords": ["job-search", "resume", "career", "interview", "ai-assistant"],
-      "homepage": "https://github.com/Mysios-Labs-inc/claude-jobseeking-plugin"
+      "keywords": ["career-intelligence", "professional-development", "job-search", "resume", "career", "mysios-professional"],
+      "homepage": "https://github.com/Mysios-Labs-inc/career-intelligence-plugin"
+    },
+    {
+      "name": "strategic-research-intelligence",
+      "description": "🔬 Strategic research and competitive intelligence workflows. Market analysis, trend monitoring, and business intelligence for strategic decision-making.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mysios Labs Inc",
+        "email": "hello@mysioslabs.com"
+      },
+      "source": {
+        "source": "github",
+        "repo": "Mysios-Labs-inc/strategic-research-intelligence",
+        "ref": "v1.0.0"
+      },
+      "license": "MIT",
+      "category": "research",
+      "keywords": ["strategic-intelligence", "competitive-analysis", "business-intelligence", "market-research", "mysios-professional"],
+      "homepage": "https://github.com/Mysios-Labs-inc/strategic-research-intelligence"
     }
   ]
 }
