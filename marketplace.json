@@ -20,7 +20,7 @@
       "source": {
         "source": "github",
         "repo": "Mysios-Labs-inc/career-intelligence-plugin",
-        "ref": "v1.3.1"
+        "ref": "main"
       },
       "license": "MIT",
       "category": "productivity",
