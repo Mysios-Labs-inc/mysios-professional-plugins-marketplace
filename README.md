@@ -6,7 +6,7 @@ Professional AI-powered intelligence tools for career advancement and strategic 
 
 ## 🎯 Professional Intelligence Suite
 
-### 🚀 Career Intelligence Plugin v1.2.0
+### 🚀 Career Intelligence Plugin v1.3.1
 **AI-powered job search and career advancement with intelligent profile analysis**
 
 **Features:**
@@ -45,7 +45,7 @@ Professional AI-powered intelligence tools for career advancement and strategic 
 Add the Mysios Labs marketplace to your Claude Code:
 
 ```bash
-/plugin marketplace add Mysios-Labs-inc/claude-plugins-marketplace
+/plugin marketplace add Mysios-Labs-inc/mysios-professional-plugins-marketplace
 ```
 
 ## 🔗 Integrated Professional Intelligence Workflows
