@@ -2,7 +2,7 @@
   "name": "mysios-labs",
   "metadata": {
     "description": "Professional Intelligence Suite - Career advancement and strategic research intelligence for professional success",
-    "version": "2.0.0"
+    "version": "2.1.0"
   },
   "owner": {
     "name": "Mysios Labs Inc",
@@ -11,8 +11,8 @@
   "plugins": [
     {
       "name": "career-intelligence-plugin",
-      "description": "🧠 AI-powered career intelligence with profile analysis, market insights, and strategic positioning. Part of the Professional Intelligence Suite.",
-      "version": "1.3.3",
+      "description": "🧠 Complete AI-powered career intelligence platform with content optimization, market analysis, ATS validation, and networking automation. Features Claude API integration, real-time salary benchmarking, multi-system ATS testing, and referral pathway intelligence.",
+      "version": "1.4.0",
       "author": {
         "name": "Mysios Labs Inc",
         "email": "hello@mysioslabs.com"
@@ -20,11 +20,11 @@
       "source": {
         "source": "github",
         "repo": "Mysios-Labs-inc/career-intelligence-plugin",
-        "ref": "v1.3.3"
+        "ref": "v1.4.0"
       },
       "license": "MIT",
       "category": "productivity",
-      "keywords": ["career-intelligence", "professional-development", "job-search", "resume", "career", "mysios-professional"],
+      "keywords": ["career-intelligence", "professional-development", "job-search", "resume", "ats-optimization", "salary-benchmarking", "networking", "ai-content", "market-intelligence", "mysios-professional"],
       "homepage": "https://github.com/Mysios-Labs-inc/career-intelligence-plugin"
     },
     {
